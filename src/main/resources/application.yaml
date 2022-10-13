@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: 'localhost'
+      port: 27017
+      database: 'test'
+      field-naming-strategy: org.springframework.data.mapping.model.CamelCaseAbbreviatingFieldNamingStrategy
+      username: 'lsj'
+      password: 'Suji#love4'
